@@ -1,0 +1,1 @@
+import{t as e}from"./tabs-CIeOfg_6.js";e();

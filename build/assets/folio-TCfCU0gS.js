@@ -1,0 +1,1 @@
+function e(){return new URLSearchParams(window.location.search).get(`folio`)}function t(e){return`/agencia-fiesta-preview/cuenta/detalle/?folio=${encodeURIComponent(e)}`}export{e as n,t};

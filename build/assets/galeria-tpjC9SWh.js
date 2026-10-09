@@ -1,0 +1,1 @@
+import{t as e}from"./galeria-BS6IQxsG.js";e();
